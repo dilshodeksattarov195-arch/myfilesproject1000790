@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingvalculate",
+        "uuid": 6460620,
+        "checksum": "t7w6ni"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
